@@ -1,0 +1,343 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "Variables & Data Types",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Operators",
+        "completed": true
+      },
+      {
+        "id": 4,
+        "title": "Control Flow",
+        "completed": true
+      },
+      {
+        "id": 5,
+        "title": "Functions",
+        "completed": true
+      },
+      {
+        "id": 6,
+        "title": "Lists",
+        "completed": true
+      },
+      {
+        "id": 7,
+        "title": "Tuples",
+        "completed": true
+      },
+      {
+        "id": 8,
+        "title": "Dictionaries",
+        "completed": true
+      },
+      {
+        "id": 9,
+        "title": "Sets",
+        "completed": true
+      },
+      {
+        "id": 10,
+        "title": "Modules",
+        "completed": true
+      },
+      {
+        "id": 11,
+        "title": "File Handling",
+        "completed": true
+      },
+      {
+        "id": 12,
+        "title": "Exceptions",
+        "completed": true
+      },
+      {
+        "id": 13,
+        "title": "Comprehensions",
+        "completed": true
+      },
+      {
+        "id": 14,
+        "title": "OOP",
+        "completed": false
+      },
+      {
+        "id": 15,
+        "title": "Inheritance",
+        "completed": false
+      },
+      {
+        "id": 16,
+        "title": "Iterators",
+        "completed": false
+      },
+      {
+        "id": 17,
+        "title": "Decorators",
+        "completed": false
+      },
+      {
+        "id": 18,
+        "title": "Testing",
+        "completed": false
+      },
+      {
+        "id": 19,
+        "title": "Packaging",
+        "completed": false
+      },
+      {
+        "id": 20,
+        "title": "Final Project",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "Machine Learning Basics",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Neural Networks",
+        "completed": true
+      },
+      {
+        "id": 4,
+        "title": "Embeddings",
+        "completed": true
+      },
+      {
+        "id": 5,
+        "title": "Transformers",
+        "completed": true
+      },
+      {
+        "id": 6,
+        "title": "Language Models",
+        "completed": true
+      },
+      {
+        "id": 7,
+        "title": "Prompt Engineering",
+        "completed": false
+      },
+      {
+        "id": 8,
+        "title": "Model Evaluation",
+        "completed": false
+      },
+      {
+        "id": 9,
+        "title": "Retrieval Augmented Generation",
+        "completed": false
+      },
+      {
+        "id": 10,
+        "title": "Vector Databases",
+        "completed": false
+      },
+      {
+        "id": 11,
+        "title": "Fine Tuning",
+        "completed": false
+      },
+      {
+        "id": 12,
+        "title": "Responsible AI",
+        "completed": false
+      },
+      {
+        "id": 13,
+        "title": "Multimodal Models",
+        "completed": false
+      },
+      {
+        "id": 14,
+        "title": "AI Agents",
+        "completed": false
+      },
+      {
+        "id": 15,
+        "title": "Deployment",
+        "completed": false
+      },
+      {
+        "id": 16,
+        "title": "Final Project",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "HTML Basics",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "CSS Basics",
+        "completed": true
+      },
+      {
+        "id": 4,
+        "title": "JavaScript Basics",
+        "completed": true
+      },
+      {
+        "id": 5,
+        "title": "DOM",
+        "completed": true
+      },
+      {
+        "id": 6,
+        "title": "Accessibility",
+        "completed": true
+      },
+      {
+        "id": 7,
+        "title": "Responsive Design",
+        "completed": true
+      },
+      {
+        "id": 8,
+        "title": "TypeScript",
+        "completed": false
+      },
+      {
+        "id": 9,
+        "title": "Components",
+        "completed": false
+      },
+      {
+        "id": 10,
+        "title": "State Management",
+        "completed": false
+      },
+      {
+        "id": 11,
+        "title": "Routing",
+        "completed": false
+      },
+      {
+        "id": 12,
+        "title": "Forms",
+        "completed": false
+      },
+      {
+        "id": 13,
+        "title": "HTTP",
+        "completed": false
+      },
+      {
+        "id": 14,
+        "title": "REST APIs",
+        "completed": false
+      },
+      {
+        "id": 15,
+        "title": "Node.js",
+        "completed": false
+      },
+      {
+        "id": 16,
+        "title": "Databases",
+        "completed": false
+      },
+      {
+        "id": 17,
+        "title": "SQL",
+        "completed": false
+      },
+      {
+        "id": 18,
+        "title": "Authentication",
+        "completed": false
+      },
+      {
+        "id": 19,
+        "title": "Authorization",
+        "completed": false
+      },
+      {
+        "id": 20,
+        "title": "Testing",
+        "completed": false
+      },
+      {
+        "id": 21,
+        "title": "Caching",
+        "completed": false
+      },
+      {
+        "id": 22,
+        "title": "Security",
+        "completed": false
+      },
+      {
+        "id": 23,
+        "title": "CI/CD",
+        "completed": false
+      },
+      {
+        "id": 24,
+        "title": "Containers",
+        "completed": false
+      },
+      {
+        "id": 25,
+        "title": "Deployment",
+        "completed": false
+      },
+      {
+        "id": 26,
+        "title": "Monitoring",
+        "completed": false
+      },
+      {
+        "id": 27,
+        "title": "Performance",
+        "completed": false
+      },
+      {
+        "id": 28,
+        "title": "Final Project",
+        "completed": false
+      }
+    ]
+  }
+]
