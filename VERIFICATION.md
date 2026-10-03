@@ -21,7 +21,7 @@ gh auth login
 gh repo create learning-dashboard-android --private --source=. --remote=origin --push
 ```
 
-Choose public visibility if your evaluator requires it. Attach the APK and MP4 to the submission or a repository release.
+Choose public visibility if your evaluator requires it. The APK, MP4, and PNG screenshots are tracked under `submission/` and will be included when you push.
 The separate `.bundle` is a portable copy of the local Git repository; restore with:
 
 ```sh

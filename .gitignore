@@ -7,3 +7,7 @@ local.properties
 .idea/
 *.apk
 *.mp4
+
+# Track the requested evaluation build and demo.
+!/submission/apk/*.apk
+!/submission/video/*.mp4

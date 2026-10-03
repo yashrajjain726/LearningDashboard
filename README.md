@@ -2,7 +2,8 @@
 
 **Run:** Open in Android Studio (AGP 9.1 support), use JDK 17 and SDK 36.
 `./gradlew assembleDebug testDebugUnitTest lintDebug` builds and checks the app.
-Install `app/build/outputs/apk/debug/app-debug.apk` on Android 8+.
+Install [`submission/apk/LearningDashboard-debug.apk`](submission/apk/LearningDashboard-debug.apk) on Android 8+.
+[Demo video and screenshots](submission/README.md) are included in this repository.
 **Login:** `learner@example.com` / `Learn123!`. Other credentials produce a mock error.
 
 **1. Architecture.** Compose → lifecycle-aware StateFlow/ViewModels → repository →
